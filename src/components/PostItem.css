@@ -1,0 +1,95 @@
+.visible{
+    position: relative;
+    display:none;
+    top: 15px;
+}
+
+.hideBtns{
+    visibility: hidden;
+}
+
+.showBtns{
+    visibility: visible;
+}
+
+.postConteiner{
+    margin-bottom: 20px;
+}
+
+.postTitle{
+    position: relative;
+    top: 0px;
+    left: 50%;
+    transform: translate(-50%,0);
+    color:white;
+    background-color: black;
+    margin-top: 30px;
+    max-width: 540px;
+    text-align: left;
+    font-size: 90%;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+}
+
+.postHead{
+    height: 60px;
+    padding:0 10px 0 30px;
+}
+
+.postHead img{
+    position: relative;
+    left: 82%;
+    top: 3px;
+    margin-left: 20px;
+    width: 20px;
+    height:auto;
+}
+
+.postHead span{
+    max-width: 540px;
+}
+
+.postTitleConteiner{
+    position: relative;
+    top: 23px;
+    width:80%;
+}
+
+.postBody{
+    border: lightgray solid 1px;
+    max-width: 540px;
+    margin-left: 29px;
+    margin-bottom: 30px;
+}
+
+.postInfo{
+    display: flex;
+    justify-content: flex-end;
+    color:lightslategray;
+    font-weight: bold;
+    margin: 25px 30px;
+    width: 540px;
+    height: 15px;
+}
+
+.postUserName{
+    display: flex;
+    padding-left: 30px;
+    width: 50%; 
+}
+
+.postTimePosted{
+    position: relative;
+    right: 30px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 40px;
+    width: 50%;
+}
+
+.postText{
+    position: relative;
+    left:25px;
+    width: 490px;
+    text-align:justify;
+}

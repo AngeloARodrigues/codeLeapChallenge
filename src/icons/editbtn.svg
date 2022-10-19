@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Prancheta1" x="0" y="0" width="64" height="64" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect id="Prancheta11" serif:id="Prancheta1" x="0" y="0" width="64" height="64"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g transform="matrix(3.33162,0,0,3.33162,-69.3328,-71.7015)">
+            <path d="M32.103,22.069L22.768,22.069C21.688,22.069 20.811,22.946 20.811,24.026L20.811,38.774C20.811,39.854 21.688,40.731 22.768,40.731L37.388,40.731C38.469,40.731 39.346,39.854 39.346,38.774L39.346,29.651L37.242,31.755L37.242,38.548L22.906,38.548L22.906,24.158L30.014,24.158L32.103,22.069Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(3.33162,0,0,3.33162,-69.3328,-71.7015)">
+            <path d="M29.602,36.401L39.457,26.546C40.185,25.818 40.185,24.636 39.457,23.908L37.617,22.068C36.888,21.339 35.706,21.339 34.978,22.068L25.123,31.923L25.123,36.401L29.602,36.401ZM33.19,26.661L26.948,32.816L26.948,34.464L28.596,34.464L34.838,28.309L33.19,26.661ZM36.255,23.627L34.639,25.243L36.255,26.859L37.871,25.243L36.255,23.627Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

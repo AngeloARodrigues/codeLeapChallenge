@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-81.4009,-1.98539)">
+        <g id="Prancheta1" transform="matrix(1,0,0,1,81.4009,1.98539)">
+            <rect x="0" y="0" width="64" height="64" style="fill:none;"/>
+            <g transform="matrix(1,0,0,1,-2.21394,0)">
+                <g transform="matrix(3.46043,0,0,3.46043,-358.49,-76.2232)">
+                    <path d="M119.616,26.222L107.352,26.222L107.352,39.088C107.352,39.879 107.995,40.522 108.786,40.522L118.182,40.522C118.974,40.522 119.616,39.879 119.616,39.088L119.616,26.222ZM115.719,29.626L117.23,31.137L114.996,33.372L117.23,35.606L115.719,37.118L113.484,34.883L111.25,37.118L109.738,35.606L111.973,33.372L109.738,31.137L111.25,29.626L113.484,31.86L115.719,29.626Z" style="fill:white;"/>
+                </g>
+                <g transform="matrix(3.46043,0,0,3.46043,-358.551,-76.2232)">
+                    <path d="M117.459,23.256L120.71,23.256L120.71,25.13L106.293,25.13L106.293,23.256L109.544,23.256L110.773,22.027L116.23,22.027L117.459,23.256Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

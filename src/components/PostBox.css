@@ -1,0 +1,48 @@
+.postBox {
+    padding: 10px 30px;
+    text-align:left;
+    margin:30px auto 0 auto;
+    color: black;
+    border: lightgray solid 1px;
+    width: 480px;
+    height: 300px;
+}
+
+.callToActio{
+    left:-40px;
+    top:100px;
+    color: black;
+    font-weight: bold;
+}
+
+input, textarea{
+    margin:5px 0 25px 0;
+    width: 470px;
+}
+
+textarea{
+    resize: none;
+    height: 100px
+}
+
+button{
+    color: white;
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    background-color: #000000;    
+    border: none;
+    padding: 8px 28px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 16px;
+    letter-spacing:1px;
+    top: -30px;
+    left: 75.4%;
+}
+
+.editBox button{
+    left: 24.1%;
+    margin-left: 20px;   
+}
